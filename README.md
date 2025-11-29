@@ -1,4 +1,8 @@
-# 🏥 Hospital AI Agent System - Level 3 Semi-Autonomous Healthcare AI
+# 🏥 CodeCoven - HealthTech
+
+
+
+<img width="1919" height="870" alt="Screenshot 2025-11-29 063341" src="https://github.com/user-attachments/assets/2446affe-8616-407b-8bb0-14fc5aa6d804" />
 
 A Level 3 Semi-Autonomous Healthcare AI System with 3 working agents (Watchtower, Quartermaster, Press Secretary) orchestrated by a Supervisor using LangGraph. The system forecasts patient load using NeuralProphet, manages resources autonomously within trust boundaries, and sends patient advisories using RAG.
 
@@ -240,4 +244,5 @@ Contributions welcome! Please open an issue or submit a PR.
 ## 📧 Contact
 
 For questions or support, please open an issue on GitHub.
+
 
